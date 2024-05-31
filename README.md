@@ -1,2 +1,3 @@
-# R_Program_Learning
-this records how I learn git version control and R programming.
+# L2 Version Control
+
+Hello, Github Community! This is my first test repo.
